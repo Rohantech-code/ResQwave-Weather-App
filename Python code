@@ -76,7 +76,7 @@ temp_label.place(x=25,y=400,height=50,width=210)
 temp_label1=Label(win,text="",
                  font=("Times New Roman",20))
 temp_label1.place(x=250,y=400,height=50,width=210)
-pre_label=Label(win,text="Weather Climate",
+pre_label=Label(win,text="Pressure",
                  font=("Times New Roman",20,))
 pre_label.place(x=25,y=470,height=50,width=210)
 pre_label1=Label(win,text="",
